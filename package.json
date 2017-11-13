@@ -1,0 +1,11 @@
+{
+  "name": "rxjs5course",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "Javier Rodriguez",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^5.5.2"
+  }
+}

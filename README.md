@@ -1,0 +1,3 @@
+- npm install rxjs
+- npm install webpack webpack-dev-server typescript typings ts-loader --save-dev
+- node_modules/.bin/typings install dt~es6-shim --global --save
